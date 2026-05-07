@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![ML](https://img.shields.io/badge/ML-Gradient%20Boosting%20%7C%20Random%20Forest-FF6F00?style=flat-square)
 ![Attack Accuracy](https://img.shields.io/badge/Attack%20Prediction%20Accuracy-87.43%25-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 
 > A proactive, machine learning-driven framework that **forecasts cyberattacks before they happen** — integrating multi-source threat intelligence, MITRE ATT&CK mapping, and explainable AI into a real-time security operations dashboard.
 
@@ -232,10 +232,3 @@ The React dashboard provides:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-> *"Security is not a product, but a process — this system makes that process predictive."*
